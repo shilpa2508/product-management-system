@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+@api_HostAddress = http://localhost:5202
+=======
+@api_HostAddress = http://localhost:5000
+>>>>>>> e0340d2 (api generated, home endpoint)
+
+GET {{api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

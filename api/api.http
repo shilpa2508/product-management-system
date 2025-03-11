@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @api_HostAddress = http://localhost:5000
+=======
+@api_HostAddress = http://localhost:5127
+>>>>>>> fc21209 (Initial commit - Pushing complete project)
 
 GET {{api_HostAddress}}/weatherforecast/
 Accept: application/json
